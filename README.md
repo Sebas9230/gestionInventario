@@ -1,6 +1,6 @@
 # Proyecto de Gestión de Inventario
 
-Este es un proyecto de gestión de inventario que consta de un frontend desarrollado en React y un backend implementado en .NET. La aplicación permite gestionar el inventario de productos, incluyendo la creación, actualización, eliminación y visualización de los mismos.
+Este es un proyecto de gestión de inventario que consta de un frontend desarrollado en React y un backend implementado en .NET. La aplicación permite gestionar el inventario de productos, incluyendo la creación, actualización y visualización de los mismos.
 
 ## Tecnologías Utilizadas
 
